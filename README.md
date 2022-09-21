@@ -34,6 +34,7 @@ npm install axios
 
 Recursos Gratuitos - iuricode
 https://github.com/iuricode/recursos-gratuitos
+tutoriais para construção
 
 Introdução SASS - Rocketseat
 https://youtube.com/watch?v=BaI8dHUthLA
